@@ -1,0 +1,8 @@
+1. Create a functional component. state. children props
+2 createcontext
+3. return context.provider with value(state) attached.  children as props
+4.  to share the context. function useDog return useContext(DogContext);
+
+before use
+5. put this component at the top level.
+6. in other components, import function and use.
